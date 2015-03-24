@@ -1,2 +1,2 @@
-# sig-index
-Signature index for Haskell packages
+# sig-archive
+Signature archive for Haskell packages
