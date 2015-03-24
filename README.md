@@ -7,6 +7,10 @@ See the original propsal here:
 
 See the detailed proposal here: [Package signing detailed propsal](https://github.com/commercialhaskell/commercialhaskell/wiki/Package-signing-detailed-propsal)
 
+Other handy links:
+
+* [GnuGPG rundown](https://github.com/commercialhaskell/commercialhaskell/wiki/GnuPG-rundown)
+
 ## How to use this service
 
 To use this service check out the
