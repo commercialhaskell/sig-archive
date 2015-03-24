@@ -1,0 +1,10 @@
+signer:
+  fingerprint: B8A48D6E
+  email: ndmitchell@gmail.com
+  packages:
+    - shake
+signer:
+  fingerprint: 9616E227
+  email: chrisdone@gmail.com
+  packages:
+    - lucid
