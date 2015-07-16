@@ -1,5 +1,5 @@
 signers:
-- fingerprint: 44A52A60
+- fingerprint: "8C69 4F5B 6941 3F16 736F  E055 A9E6 D147 44A5 2A60"
   email: tim@dysinger.net
   packages:
   - aeson
