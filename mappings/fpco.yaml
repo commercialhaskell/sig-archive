@@ -1,9 +1,9 @@
 signers:
-  - fingerprint: "9616E227"
+  - fingerprint: "ADD9 EB09 887A BE32 3EF7  F701 2141 7080 9616 E227"
     email: "chrisdone@gmail.com"
     packages:
       - lucid
-  - fingerprint: "B8A48D6E"
+  - fingerprint: "1F2A 894E 7518 9ADE AE20  52D8 DFC4 3133 B8A4 8D6E"
     email: "ndmitchell@gmail.com"
     packages:
       - shake
